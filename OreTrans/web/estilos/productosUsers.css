@@ -1,0 +1,199 @@
+#productoUser{
+    width: 100%;
+    height: auto;
+    min-height: 770px;
+}
+
+#productoUser .filtrar{
+    width: 22%;
+    min-height: 770px;
+    float: left;
+    padding: 15px;
+}
+.filtrar h2{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.buscar{
+    padding: 20px;
+    background: #F3F3F3;
+    border-radius: 12px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: -5px -1px 5px #ddd;
+}
+.mostrar{
+    padding: 40px;
+    background: #F3F3F3;
+    border-radius: 12px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: -5px -1px 5px #ddd;
+    text-align: center;
+}
+.buscar label{
+    margin-top: 10px;
+}
+.mostrar .btn{
+    width: 100%;
+    margin-top: 20px;
+}
+.buscar .btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+#productoUser .producto{
+    width: 78%;
+    min-height: 800px;
+    float: right;
+    border-left: 1px solid #ccc;
+    box-shadow: -5px -1px 5px #ddd;
+    padding:25px; /*MARGENES INTERNOS*/
+    float: left;
+    background-color: #F6F6F6;
+}
+#productoUser .bandeja{
+    width: 75%;
+    margin: auto;
+    min-height: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#productoUser .btnRegresar{
+    width: 25%;
+    margin: auto;
+    margin-top: 140px;
+}
+#productoUser .btnRegresar .b1{float: left}
+#productoUser .btnRegresar .b2{float: right}
+#productoUser .costeTotal{
+    width: 20%;
+    height: auto;
+    float: right;
+    text-align: center;
+}
+
+.producto h1{
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 1px; /*SEPARACION DE LETRA*/
+    text-align: center;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+    padding-top: 15px;
+}
+
+/*PRODUCTOS*/
+.product{
+    width: 30%;
+    height: 100%;
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 10px;
+}
+.product .imagen{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border-radius: 3px;
+}
+.product img{
+   max-width: 250px;
+   height: 150px;
+   max-height: 190px;
+   padding: 10px;
+}
+.product .contenido{
+    width: 100%;
+    height: 90px;
+    padding: 7px;
+}
+.product h2{
+    font-size: 18px;
+    text-align: center;
+    color: #15112E;
+}
+.product h3{
+    font-size: 17px;
+    color: #2F275D;
+}
+.product h5{
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    color: #2F275D;
+}
+
+.product p{
+    font-weight: bold;
+    font-size: 15px;
+    color: #555;
+    float: right;
+}
+.product .boton{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-top: 1px solid #ccc;
+}
+.product .boton a{
+    float: right;
+    color: #B8B8B8;
+}
+.product .boton a:hover{
+    color: #5d5d5d;
+}
+
+.btnRetirar a{
+    color: #ff2d2d;
+}
+.btnRetirar a:hover{
+    color: #9f0808;
+}
+.btnDisminuye a{
+    color: #006040;
+}
+.btnDisminuye a:hover{
+    color: #5d5d5d;
+}
+
+/*REGISTRAR*/
+.registro{
+    width: 35%;
+    background: #ddd;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.registro .btnRegistrar{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+}
+.registro .btnSalir{
+    width: 500px;
+    margin: auto;
+    background: red;
+    margin-bottom: 20px;
+}
+
+/*EDITAR*/
+#producto .imagen{
+    text-align: center;
+    margin-bottom: 20px;
+}

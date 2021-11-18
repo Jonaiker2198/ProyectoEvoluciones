@@ -1,0 +1,29 @@
+SMAP
+productosUser_jsp.java
+JSP
+*S JSP
+*F
++ 0 productosUser.jsp
+productosUser.jsp
++ 1 headerUser.jsp
+Reutilizables/headerUser.jsp
++ 2 footer.jsp
+Reutilizables/footer.jsp
+*L
+5,10:60
+5#1,48:69
+53:117,3
+54,9:120
+14#0,58:128
+72:186,3
+73,4:189
+77:193,3
+78,12:196
+90,16:209
+105,6:225
+111:231,3
+112,9:234
+121:243,3
+122,9:246
+5#2,15:254
+*E

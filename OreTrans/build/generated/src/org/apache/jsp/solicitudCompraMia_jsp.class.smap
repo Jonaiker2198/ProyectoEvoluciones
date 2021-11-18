@@ -1,0 +1,27 @@
+SMAP
+solicitudCompraMia_jsp.java
+JSP
+*S JSP
+*F
++ 0 solicitudCompraMia.jsp
+solicitudCompraMia.jsp
++ 1 headerUser.jsp
+Reutilizables/headerUser.jsp
++ 2 footer.jsp
+Reutilizables/footer.jsp
+*L
+5,11:61
+5#1,48:71
+53:119,3
+54,9:122
+15#0:130,2
+17,7:133
+23,20:140
+43,4:161
+46,2:165
+48,10:167,3
+58,20:197
+77,2:217
+5#2,15:219
+79#0:234
+*E

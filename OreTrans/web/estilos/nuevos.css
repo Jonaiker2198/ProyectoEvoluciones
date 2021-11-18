@@ -1,0 +1,234 @@
+/*ORDEN COMPRA*/
+#ordenCompra{
+    min-height: 750px;
+    margin-top: 110px;
+}
+#ordenCompra .dato{
+    width: 30%;
+}
+.dato .dato1{float: left;}
+.dato .dato2{float: right;}
+#ordenCompra .botones1{
+    margin-top: 100px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*GENERAR ORDEN COMPRA*/
+#generarOrdenCompra{
+    min-height: 750px;
+    margin-top: 110px;
+}
+ #generarOrdenCompra .botones1{
+    margin-top: 100px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*GENERAR ORDEN PRODUCTOS FALTANTES*/
+#ordenProductoFaltante{
+    min-height: 820px;
+    margin-top: 90px;
+}
+ #ordenProductoFaltante .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*SALIDA ALMACEN*/
+#salidaAlmacen{
+    min-height: 820px;
+    margin-top: 90px;
+}
+ #salidaAlmacen .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*SALIDA KARDEX*/
+#salidaKardex{
+    min-height: 820px;
+    margin-top: 90px;
+}
+#salidaKardex .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+
+/*BUSCA SALIDA ALAMCEN*/
+#buscaSalidaAlmacen{
+    min-height: 820px;
+    margin-top: 90px;
+}
+
+#buscaSalidaAlmacen .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*BUSCA SALIDA ALAMCEN*/
+#stockProducto{
+    min-height: 820px;
+    margin-top: 90px;
+}
+
+#stockProducto .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*EVALUAR CURRIER*/
+#evaluarCurrier{
+    min-height: 780px;
+    margin-top: 90px;
+}
+#evaluarCurrier .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*ORDEN ENVIO*/
+#evaluarCurrier{
+    min-height: 820px;
+    margin-top: 90px;
+}
+#evaluarCurrier .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*ORDEN ENVIO*/
+#evaluarCurrier{
+    min-height: 820px;
+    margin-top: 90px;
+}
+#evaluarCurrier .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*ORDEN ENVIO*/
+#evaluarCurrier{
+    min-height: 820px;
+    margin-top: 110px;
+}
+#evaluarCurrier .botones1{
+    margin-top: 70px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*VERIFICAR PEDIDO*/
+#verificarPedido{
+    min-height: 780px;
+    margin-top: 110px;
+}
+#verificarPedido .botones1{
+    margin-top: 70px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*REPORTE INVENTARIO*/
+#reporteInventario{
+    min-height: 780px;
+    margin-top: 110px;
+}
+#reporteInventario .botones1{
+    margin-top: 70px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*VERIFICAR CRONOGRAMA*/
+#verificarCronograma{
+    min-height: 780px;
+    margin-top: 110px;
+}
+#verificarCronograma .botones1{
+    margin-top: 70px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*GENERAR MEMORANDUM*/
+#generarMemorandum{
+    min-height: 810px;
+    margin-top: 90px;
+}
+#generarMemorandum .botones1{
+    margin-top: 30px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*REGISTRA CRONOGRAMA*/
+#registraCronograma{
+    min-height: 810px;
+    margin-top: 110px;
+}
+#registraCronograma .botones1{
+    margin-top: 60px;
+    width: 90%;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

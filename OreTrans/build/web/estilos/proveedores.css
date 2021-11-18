@@ -1,0 +1,63 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*PROVEEDORES*/
+
+#proveedor{
+    min-height: 830px;
+}
+.titulo{
+    width: 98%;
+    height: auto;
+    padding: 10px;
+    background: #aaaa;
+    margin: auto;
+    margin-top: 10px;
+}
+.titulo h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.contenedor{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.contenedor .table{
+    margin-top: 30px;
+    text-align: center;
+}
+#proveedor .botones{
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+.botones .btn1{
+    width: 200px;
+    float: left;
+    
+}
+.botones .btn2{
+    float: right;
+    width: 200px;
+}
+
+
+
+/*CREAR PROVEEDORES*/
+#proveedor .container{
+    margin-top: 40px;
+}
+#proveedor .btnRegistrar{
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+#proveedor .btnSalir{
+    width: 500px;
+    margin: auto;
+    background: red;
+}

@@ -1,0 +1,84 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 10px;
+    background: url(../imagenes/cubes.png) #F4F4F4;
+}
+
+#titulo{
+    width: 100%;
+    height: 100%;
+    background: #eeeeee;
+    text-align: center;
+}
+
+#titulo a{
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    color: #900c3f;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#titulo p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#logo{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#ingresar{
+    width: 40%;
+    height: auto;
+    padding: 20px;
+    background: #ececec;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+    
+.Usuario{
+    position: relative;
+}
+
+.Usuario i{
+    position: absolute;
+    left: 0;
+    top: 3px;
+    padding: 8px 12px;
+    color: #aaaa; 
+}
+
+.Password{
+    position: relative;
+}
+
+.Password i{
+    position: absolute;
+    left: 0;
+    top: 3px;
+    padding: 8px 12px;
+    color: #aaaa;
+}
+
+.botones{
+    width: 70%;
+    height: auto;
+    margin: auto;
+}
+
+.warning{
+    width: 200px;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}

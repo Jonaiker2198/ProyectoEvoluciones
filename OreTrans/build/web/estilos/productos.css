@@ -1,0 +1,106 @@
+#producto{
+    width: 100%;
+    min-height: 800px;
+    float: right;
+    border-left: 1px solid #ccc;
+    box-shadow: -5px -1px 5px #ddd;
+    padding:25px; /*MARGENES INTERNOS*/
+}
+
+#producto h1{
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 1px; /*SEPARACION DE LETRA*/
+    text-align: center;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+    padding-top: 15px;
+}
+
+/*PRODUCTOS*/
+.product{
+    width: 30%;
+    padding: 20px;
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    background: white;
+}
+.product .proimagen{
+    width: 90%;
+    height: 200px;
+    margin: auto;
+}
+.product .proimagen img{
+    max-width: 260px;
+    height: 170px;
+    max-height: 180px;
+}
+
+.product h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+}
+.product .cuadro{
+    width: 90%;
+    height: 30px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 30px;
+}
+.product h3{
+    font-size: 15px;
+    float: right;
+}
+.product h4{
+    font-size: 15px;
+    float: left;
+}
+.product h5{
+    font-size: 15px;
+}
+
+.product p{
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 10px;
+}
+.product .row{
+    margin-top: 10px;
+    padding: 5px;
+    border-top: 1px solid #ccc;
+}
+
+
+/*REGISTRAR*/
+.registro{
+    width: 35%;
+    background: #ddd;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.registro .btnRegistrar{
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+.registro .btnSalir{
+    width: 500px;
+    margin: auto;
+    background: red;
+    margin-bottom: 20px;
+}
+
+/*EDITAR*/
+#producto .imagen{
+    text-align: center;
+    margin-bottom: 20px;
+}

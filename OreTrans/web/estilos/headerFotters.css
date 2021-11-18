@@ -1,0 +1,70 @@
+
+/*HEADER*/
+.header{
+    width: 100%;
+    margin-bottom: 75px;
+}
+
+.navbar{
+    background-color: #C1C1C1;
+}
+
+.navbar .nav a{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav .logousuario{
+    width: 40px;
+}
+
+/*DROPDOWN ADMI*/
+.nav .dropdown .dropdown-menu{
+    background-color: #F3F3F3;
+    float: left;
+}
+
+/*DROPDOWN USER*/
+.nav .dropdown .dropdown-user{
+    background-color: #F3F3F3;
+    width: 250px;
+    height: auto;
+    text-align: center;
+}
+.dropdown-user .datos img{
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.dropdown-user .datos p{
+    font-size: 25px;
+    color: #222222;
+    margin-top: 10px;
+}
+
+
+
+.dropdown .dropdown-menu .dropdown-item:hover{
+    background:0;
+    font-weight: bold;
+    color: #222222;
+}
+
+
+
+
+/*principal*/
+#principal{
+    min-height: 800px;
+}
+
+/*footer*/
+#footer{
+    clear: both;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom: 10px;
+    color: white;
+    background: #222222;
+    border-top: 4px solid #01B1EA;
+}

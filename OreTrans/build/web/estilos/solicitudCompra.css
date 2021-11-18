@@ -1,0 +1,41 @@
+/*GENERALES*/
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(../imagenes/cubes.png) #F4F4F4;
+}
+
+/*CENTRAL*/
+#solicitud{
+    width: 80%;
+    min-height: 750px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#solicitud2{
+    width: 90%;
+    min-height: 700px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.alerta{
+    width: 40%;
+    height: auto;
+    margin: auto;
+    margin-top: 150px;
+}
+.alerta h2{
+    text-align: center;
+}
+.classsolicitud{
+    margin-top: 100px;
+}
+.classsolicitud .btnGenerar{
+    width: 20%;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+}
+.classsolicitud .btnGenerar .btn{
+    width: 100%;
+}
+

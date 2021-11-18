@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*CENTRAL*/
+
+#central{
+    min-height: 830px;
+}
+.titulo{
+    width: 98%;
+    height: auto;
+    padding: 10px;
+    background-color: #006040;
+    margin: auto;
+    margin-top: 10px;
+}
+.titulo h2{
+    text-align: center;
+    font-size: 45px;
+}
+.contenedor{
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+.contenedor .table{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#central .botones{
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+.botones .btn1{
+    width: 200px;
+    float: left;
+    
+}
+.botones .btn2{
+    float: right;
+    width: 200px;
+}
